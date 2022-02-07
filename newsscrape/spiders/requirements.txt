@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+mechanize==0.4.7
+requests==2.25.1
+Scrapy==2.5.1
